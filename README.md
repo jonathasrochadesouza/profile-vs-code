@@ -1,5 +1,4 @@
-# profile-visual-studio-code
-My profile [vs-code]
+# My profile [vs-code]
 
 ## By profile file
 Menu Bar > File > Share > Import Profile
