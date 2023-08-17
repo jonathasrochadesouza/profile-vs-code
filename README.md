@@ -8,4 +8,4 @@ UI
 
 Menu Bar > File > Share > Import Profile
 
-Ctrl +Shift + P. 'Settings -> settings.json (User)'.
+Ctrl +Shift + P. 'Settings -> settings.json (Open User Settings (JSON))'.
