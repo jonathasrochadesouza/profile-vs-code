@@ -1,0 +1,38 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "thunder-client.saveToWorkspace": true,
+    "thunder-client.showActivityFromCollection": true,
+    "tabnine.experimentalAutoImports": true,
+    "redhat.telemetry.enabled": false,
+    "window.zoomLevel": 1,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "yaml.customTags": [
+        "!Equals sequence",
+        "!FindInMap sequence",
+        "!GetAtt",
+        "!GetAZs",
+        "!ImportValue",
+        "!Join sequence",
+        "!Ref",
+        "!Select sequence",
+        "!Split sequence",
+        "!Sub"
+    ],
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "figma.autocompleteBlocks": true,
+    "editor.fontSize": 14,
+    "workbench.colorTheme": "Layan (Dark)",
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#1f1f1f",
+        "tab.activeBorderTop": "#5555F7",
+        "tab.activeForeground": "#fff",
+        "titleBar.activeBackground": "#000000"
+        // "tab.activeBorder": "#5555F7"
+    },
+    "editor.renderWhitespace": "all",
+    "window.menuBarVisibility": "compact",
+    "window.commandCenter": false
+}
