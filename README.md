@@ -1,11 +1,8 @@
 # profile-visual-studio-code
 My profile [vs-code]
 
-Include:
-Extensions
-Settings.json
-UI
-
+## By profile file
 Menu Bar > File > Share > Import Profile
 
+## By settings.json file
 Ctrl +Shift + P. 'Settings -> settings.json (Open User Settings (JSON))'.
