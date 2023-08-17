@@ -1,4 +1,4 @@
-# My profile [vs-code]
+# 👨🏾‍🚀👨🏾‍💻 My profile [vs-code]
 
 ## By profile file
 Visual Studio Code > Menu Bar > File > Share > Import Profile
